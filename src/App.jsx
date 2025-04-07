@@ -3,6 +3,7 @@ import { useState } from 'react';
 function App() {
 
   //Hello this is a test comment.
+  //Adding another test comment.
   const [count, setCount] = useState(5);
 
   function incrementUnsafely() {
